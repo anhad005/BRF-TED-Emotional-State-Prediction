@@ -161,16 +161,6 @@ Official Dataset:
 
 https://studentlife.cs.dartmouth.edu/
 
-### Synthetic Dataset
-
-A synthetic StudentLife-inspired dataset is provided for:
-
-* pipeline testing
-* reproducibility
-* development
-
-Synthetic results must not be reported as research findings.
-
 ---
 
 # Features
